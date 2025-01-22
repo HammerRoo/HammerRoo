@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HammerRoo
 - 👀 I’m interested in games, coding.
-- 🌱 I’m currently learning .NET, C#, C++.
+- 🌱 I’m currently learning Python, C#, C++, .NET.
 - 💞️ I’m looking to collaborate on -.
-- 📫 How to reach me -.
+- 📫 How to reach me hammerroofficial@gmail.com.
 - 😄 Pronouns: Hammer, HammerRo, Rooster, Molot.
-- ⚡ Fun fact: silly.
+- ⚡ Fun fact: -.
 
 <!---
 HammerRoo/HammerRoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
